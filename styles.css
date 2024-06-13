@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Exo 2", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: url(image/1.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.container {
+  position: relative;
+  height: 30%;
+  width: 300px;
+  padding: 5px 30px;
+  color: white;
+  box-shadow: 8px 5px 5px 8px rgba(0, 0, 0, 0.6);
+}
+button {
+  border-radius: 20px;
+  padding: 5px 8px;
+}
+button:hover {
+  background-color: rgb(52, 159, 221);
+  color: white;
+}
