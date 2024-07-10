@@ -7,7 +7,7 @@ Sign-In: Authentication with stored credentials in local storage.
 Secure Page: Redirects users to a secured page upon successful sign-in.
 Responsive Design: Ensures compatibility across various devices.
 ## Demo
-Explore the live demo here [Auth](https://iamvibhav.github.io/OIBSIP_Login-Auth/)
+Explore the live demo here [Auth](https://iamvibhav.github.io/Login-Auth/)
 
 # Technologies Used
 HTML
