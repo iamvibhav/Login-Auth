@@ -9,7 +9,7 @@ Responsive Design: Ensures compatibility across various devices.
 ## Demo
 Explore the live demo here [Auth](https://iamvibhav.github.io/Login-Auth/)
 
-# Technologies Used
+## Technologies Used
 HTML
 CSS (for styling and layout)
 JavaScript (for functionality and local storage handling)
